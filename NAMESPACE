@@ -1,0 +1,3 @@
+useDynLib(ADmarsaglia,.registration=TRUE)
+
+export(ADtest,AD_pval)

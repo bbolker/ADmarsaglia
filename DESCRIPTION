@@ -1,0 +1,9 @@
+Package: ADmarsaglia
+Title: Anderson-Darling test for uniformity
+Version: 0.1
+Authors@R: "Ben Bolker <bolker@mcmaster.ca> [aut, cre]"
+Description: Wrapper for Marsaglia et al. (JSS 9/i02) Anderson-Darling code
+Depends:
+    R (>= 3.2.0)
+License: GPL
+LazyData: true
